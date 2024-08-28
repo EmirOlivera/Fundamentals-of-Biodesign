@@ -1,6 +1,6 @@
 # ANALISIS DEL CASO
 ## 1. Definiciones en terminos clave
--TVM: El traumatismo vertebromedular, es una lesión focal o difusa de la columna vertebral y sus respectivas partes blandas, médula espinal y nervios periféricos. (1)
+-TVM: El traumatismo vertebromedular, es una lesión focal o difusa de la columna vertebral y sus respectivas partes blandas, médula espinal y nervios periféricos. [1]
 
 -CORPORECTOMIA C4: Una corpectomía cervical es un procedimiento quirúrgico que se realiza para extirpar una o más vértebras (huesos) de la columna cervical (cuello). La corpectomía consiste en extirpar la parte anterior de la vértebra, el cuerpo vertebral.(2)
 
@@ -34,4 +34,5 @@ El INR es el único centro de referencia nacional que ofrece atención especiali
 ## 5. Cuadro del caso medico
 [![Captura-de-pantalla-2024-08-27-224515.png](https://i.postimg.cc/k45m2CS6/Captura-de-pantalla-2024-08-27-224515.png)](https://postimg.cc/XZthPTQ4)
 
-## Bibliografia
+## Referencias Bibliograficas
+[1] Instituto Nacional de Ciencias Neurológicas, "Guía de Manejo del Traumatismo Vertebro Medular Cervical," Sept. 2020.
