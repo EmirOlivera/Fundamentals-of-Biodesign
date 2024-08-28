@@ -9,7 +9,7 @@ A cargo de conseguir y ensamblar correcta y efectivamente los componentes electr
 [![foto.jpg](https://i.postimg.cc/qvY0yQtk/foto.jpg)](https://postimg.cc/nXv6t4Y5)
 ## MARIA FE MARQUEZ
 Estudiante de Ingeniería Biomédica, interesada en el área de Biomecánica con el objetivo de poder desarrollar soluciones capaces de garantizar el bienestar y calidad de vida de las personas.
-## Encargada del diseño electronico
+## Encargada del diseño electrónico
 A cargo del proceso de planificación de esquemas para los componentes electricos para garantizar su funcionamiento en el producto final.
 
 
