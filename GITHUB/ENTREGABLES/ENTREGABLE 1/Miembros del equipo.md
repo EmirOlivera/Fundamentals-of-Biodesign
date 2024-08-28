@@ -27,7 +27,7 @@ Estudiante de Ingeniería Biomédica, interesada en el área de Tejidos y Biomat
 ## Encargada de diseño 3D
 Diseñar el prototipo  en diferentes vistas en la plataforma y modelarlo en diferentes perspectivas, para que luego se puedar imprimir el prototipo.
 
-[![Sin-t-tulo.png](https://i.postimg.cc/nVSGyyqp/Sin-t-tulo.png)](https://postimg.cc/dDdCdSWx)
+
 ## EDUARDO CARBAJAL 
 Estudiante de Ingeniería Biomédica, interesado en el área de Rehabilitación y Biomecánica, con el objetivo de desarrollar dispositivos innovadores que mejoren la movilidad, faciliten la recuperación y aumenten la calidad de vida de las personas.
 ## Encargado de manufactura digital
