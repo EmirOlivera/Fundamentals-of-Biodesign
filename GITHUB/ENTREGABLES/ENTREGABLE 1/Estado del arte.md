@@ -1,6 +1,6 @@
 ## CONTEXTO CIENTIFICO 
 
-### DISPOSITIVO 1 
+### ENSAYO CLÍNICO 1 
 ## Título del Artículo Científico: Functional electrical stimulation therapy for restoration of motor function after spinal cord injury and stroke: a review
 ### Primer Autor: Marquez-Chin, C.
 ### Año de publicación: 2020
@@ -24,7 +24,7 @@ La estimulación eléctrica funcional se utiliza usualmente en combinación con 
 
 
 
-### DISPOSITIVO 2
+### ENSAYO CLÍNICO 2
 ## Título del Artículo Científico: Exoskeleton-based exercises for overground gait and balance rehabilitation in spinal cord injury: a systematic review of dose and dosage parameters.
 ### Primer Autor: Nepomuceno, P.
 ### Año de publicación: 2024
@@ -40,4 +40,28 @@ Los ejercicios basados en exoesqueletos se encuentran en un estado de revisión 
 La falta de parámetros de dosis estandarizados limita la replicabilidad y generalización de los resultados en estudios de rehabilitación con exoesqueletos. Por ello, el objetivo por esta carencia es mejorar la traducción clínica de los hallazgos, de lo cual se necesitan estudios clínicos estructurados con métodos estandarizados y resultados terapéuticos comunes. Además, se sugiere la inclusión de una lista de control en los estudios de rehabilitación que contemple la identificación del estudio, parámetros de dosis, entre otros, y detalles sobre la población y características del dispositivo.
 
 
+### ENSAYO CLÍNICO 3
+## Título del Artículo Científico: Regenerative rehabilitation with conductive biomaterials for spinal cord injury.
+### Primer Autor: E.A. Kiyotake.
+### Año de publicación: 2020
+
+
+## RESUMEN:
+### Siglas importantes:
+- Electrical epidural stimulation (EES)
+- Polycaprolactone (PCL)
+- Poly(lactic-co-glycolic acid) (PLGA)
+- Poly (L-lactic acid) (PLLA)
+- Polylactic acid (PLA) 
+
+La investigación respecto al avance en la reparación de la médula espinal ha experimentado un notable progreso con el pasar de los años, centrándose en estrategias que combinan tecnología moderna, biología regenerativa y terapias multimodales. En lo cual se han destacado estudios sobre la conectividad axonal, utilizando técnicas como la estimulación epidural y el trasplante de células envolventes olfativas en modelos animales, los cuales muestran resultados prometedores para la recuperación motora de los pacientes.
+
+### 1. Estrategias terapéuticas:
+En el campo de la neuroregeneración se están explorando tratamientos que incluyen la estimulación epidural, combinaciones de fármacos con estimulación epidural y el uso de moléculas bioactivas como factores de crecimiento para mejorar la supervivencia celular y reducir la inflamación. Estas estrategias han demostrado eficacia en modelos preclínicos, sugiriendo un buen potencial para la traducción clínica.
+
+### 2. Biomateriales y células madre:
+Se han realizado progresos significativos en el uso de biomateriales como el PCL, gelatina y nanotubos de carbono, que presentan propiedades de biocompatibilidad aceptable y buena hidrofobicidad. Sin embargo, su toxicidad depende de factores como la síntesis, el tamaño y la dosis, demostrando así una necesidad en realizar más estudios in vivo para establecer su seguridad y eficacia en la integración de la medicina regenerativa y la rehabilitación. Además, la terapia con células madre y combinaciones de biomateriales sigue siendo un área de investigación activa, con estudios en curso sobre el trasplante de células madre para evaluar su eficacia en lesiones de la médula espinal.
+
+### 3. Neuroplasticidad y rehabilitación:
+La neuroplasticidad se presenta como un enfoque importante y viable para la recuperación tras lesiones en la médula espinal. Las intervenciones terapéuticas se centran en la reorganización de vías neuronales a través de la rehabilitación constante junto a tecnologías de neuromodulación y neuroregeneración, para promover los resultados funcionales.
 
