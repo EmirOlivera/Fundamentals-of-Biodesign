@@ -1,4 +1,5 @@
-[![PUCP.png](https://i.postimg.cc/QCgh32sY/PUCP.png)](https://postimg.cc/fSb67gVY)                                 
+[![LOGOS.png](https://i.postimg.cc/NFtvpdT6/LOGOS.png)](https://postimg.cc/9RLkftL0)
+
 # EQUIPO 6: 
 [![funbio.jpg](https://i.postimg.cc/65vYxnGY/funbio.jpg)](https://postimg.cc/HVTQQJzy)
 ## CARLA FERMIN 
