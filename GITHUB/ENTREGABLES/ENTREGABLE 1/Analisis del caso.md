@@ -6,7 +6,7 @@
 
 -VEJIGA NEUROGENICA: La vejiga neurogénica, también conocida como disfunción neurogénica del tracto urinario inferior, es cuando una persona no tiene control de la vejiga debido a problemas del cerebro, la médula espinal o los nervios.(3)
 
--DISCECTOMIA: Es una cirugía para extirpar todo o parte de la amortiguación que ayuda a sostener parte de la columna vertebral. Estas amortiguaciones se denominan discos y son los que separan los huesos de la columna (vértebras). 
+-DISCECTOMIA: Es una cirugía para extirpar todo o parte de la amortiguación que ayuda a sostener parte de la columna vertebral. Estas amortiguaciones se denominan discos y son los que separan los huesos de la columna (vértebras). (4)
 
 ## 2. Desarrollo de la tematica
 Refiere que el 24 de febrero del 2013, en Pucallpa, sufrió accidente de tráfico, mientras conducía moto lineal (fue impactado por auto). Fue atendido inicialmente en clínica local, luego en EsSalud. Trajo el informe médico, con diagnósticos: “TVM, corporectomia C4, vejiga neurogenica y discectomia”. Posteriormente, acude por primera vez al INR el 19 de setiembre del 2013, ingresó a hospitalización del INR en el periodo de 8/8/2014 al 8/1/2015. Tras el alta, no continuo controles es la institución. Luego retoma atenciones en agosto 2023, se indica el reingreso para manejo vesical el 18/10/2023, programando su ingreso. Se observa que fue operado de osificación periarticular de cadera izquierda en el 2016, el Pucallpa.
@@ -34,3 +34,4 @@ El INR es el único centro de referencia nacional que ofrece atención especiali
 ## 5. Cuadro del caso medico
 [![Captura-de-pantalla-2024-08-27-224515.png](https://i.postimg.cc/k45m2CS6/Captura-de-pantalla-2024-08-27-224515.png)](https://postimg.cc/XZthPTQ4)
 
+## Bibliografia
