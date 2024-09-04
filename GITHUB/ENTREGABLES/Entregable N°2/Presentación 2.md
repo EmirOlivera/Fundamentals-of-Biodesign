@@ -39,6 +39,18 @@ El invento posee una base (figura 4) que sostiene el utensilio (figura 3) y se u
 [![image.png](https://i.postimg.cc/zBqBmFYj/image.png)](https://postimg.cc/v1SMf9Bg)
 
 
+### B) ES 2870671T3-DISPOSITIVO PORTÁTIL PARA LA REHABILITACIÓN DE LOS MIEMBROS SUPERIORES
+[![PATENTE3.jpg](https://i.postimg.cc/JnWQ0PYz/PATENTE3.jpg)](https://postimg.cc/VSDtHBcx)
+
+Año de publicación: 27.10.2021
+
+País de procedencia: España
+
+Descripción: Dispositivo portátil de rehabilitación para usuarios discapacitados que se les dificultan realizar tareas de alcance y levantamiento de objetos. Este dispositivo se mueve sobre una superficie, generalmente plana, que detecta las intenciones de movimiento del usuario. De esta forma proporciona asistencia al usuario, sin importar que el movimiento no sea determinístico. 
+
+Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una superficie como la de una mesa. El dispositivo incluye un potenciómetro, u otro sensor, y un sensor óptico para calcular el ángulo de rotación en todo momento. En las celdas 31 y 32 se mide la fuerza ejercida. Luego se comprueba si la fuerza dura un intervalo de tiempo mínimo para seguir con el movimiento, de lo contrario se calcula la fuerza de nuevo. Esto ayuda a diferenciar entre intención de movimiento o algún temblor del usuario. Después de confirmar la intención de movimiento, se procede a diferenciar la dirección del movimiento ( adelante F, atrás B, derecha R, izquierda L) según el ángulo de orientación del dispositivo.
+
+
 # LISTA DE REQUERIMIENTOS 
 <br>
 
