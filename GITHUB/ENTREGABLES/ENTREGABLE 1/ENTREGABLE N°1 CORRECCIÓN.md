@@ -138,9 +138,10 @@ La estimulación eléctrica funcional durante su proceso de restauración de la 
 ### 2. Aplicaciones clínicas y planes futuros
 La estimulación eléctrica funcional se utiliza usualmente en combinación con otras intervenciones terapéuticas para maximizar los resultados de la rehabilitación motora. Además, se anticipa un aumento en su uso debido al envejecimiento de la población y a los avances tecnológicos, como las interfaces cerebro-computadora y la tecnología vestible, que se espera que promuevan aún más la eficacia de esta terapia.
 
+<br>
 
+<br>
 
-### ENSAYO CLÍNICO 2
 ## Título del Artículo Científico: Exoskeleton-based exercises for overground gait and balance rehabilitation in spinal cord injury: a systematic review of dose and dosage parameters.
 ### Primer Autor: Nepomuceno, P.
 ### Año de publicación: 2024
@@ -155,8 +156,10 @@ Los ejercicios basados en exoesqueletos se encuentran en un estado de revisión 
 ### 1. Importancia de la estandarización
 La falta de parámetros de dosis estandarizados limita la replicabilidad y generalización de los resultados en estudios de rehabilitación con exoesqueletos. Por ello, el objetivo por esta carencia es mejorar la traducción clínica de los hallazgos, de lo cual se necesitan estudios clínicos estructurados con métodos estandarizados y resultados terapéuticos comunes. Además, se sugiere la inclusión de una lista de control en los estudios de rehabilitación que contemple la identificación del estudio, parámetros de dosis, entre otros, y detalles sobre la población y características del dispositivo.
 
+<br>
 
-### ENSAYO CLÍNICO 3
+<br>
+
 ## Título del Artículo Científico: Regenerative rehabilitation with conductive biomaterials for spinal cord injury.
 ### Primer Autor: E.A. Kiyotake.
 ### Año de publicación: 2020
