@@ -73,7 +73,7 @@ Descripción: El presente invento se refiere a un asistente muscular flexible pa
 
 Funcionamiento: Incluye componentes activos que ejerce una fuerza o torción en en alguna parte del cuerpo para cambiar su posición, esto se ve en la extensión de una articulación, y componentes pasivos oara la flexión y reposiciamiento del cuerpo proporcionando una fuerza amortiguadora. 
 
-[![patente-6.jpg](https://i.postimg.cc/XNKynV0F/patente-6.jpg)](https://postimg.cc/PNxq4nJr)
+[![patente-6.jpg](https://i.postimg.cc/8zY7Zch8/patente-6.jpg)](https://postimg.cc/68d639jz)
 
 # LISTA DE REQUERIMIENTOS 
 
