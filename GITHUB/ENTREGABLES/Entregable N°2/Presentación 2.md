@@ -15,7 +15,7 @@ El dispositivo Liftware Steady consiste en un mango estabilizador junto a un con
 
 ### B) Obi:
 
-Obi es un revolucionario dispositivo de alimentación adaptable para personas con limitaciones de fuerza y movilidad en las extremidades superiores. Mediante el uso de interruptores de accesibilidad personalizables, Obi permite a sus usuarios controlar lo que comen y cuándo lo comen.Obi aumenta la independencia, la interacción social y la calidad de vida de los pacientes.
+Obi es un revolucionario dispositivo de alimentación adaptable para personas con limitaciones de fuerza y movilidad en las extremidades superiores. Mediante el uso de interruptores de accesibilidad personalizables, Obi permite a sus usuarios controlar lo que comen y cuándo lo comen. Obi aumenta la independencia, la interacción social y la calidad de vida de los pacientes. Este dispositivo facilita uno de los mayores retos de personas con lesiones medulares, el cual es la alimentación. Demostrando así, la participación activa de estos dispositvos electrónicos en la asistencia robótica con el objeitvo de mejorar aquellas problemáticas que pueden tener las personas [2]. 
 <br>
   ### Imagen 2
 [![OBI.jpg](https://i.postimg.cc/FRKtHCRN/OBI.jpg)](https://postimg.cc/PL0V64YR)
@@ -36,3 +36,4 @@ Obi es un revolucionario dispositivo de alimentación adaptable para personas co
 # REFERENCIAS
 
 [1] J. Sabari, D. G. Stefanov, J. Chan, L. Goed, and J. Starr, “Adapted feeding utensils for people with Parkinson’s-Related or Essential tremor,” American Journal of Occupational Therapy, vol. 73, no. 2, pp. 7302205120p1-7302205120p9, Mar. 2019, doi: 10.5014/ajot.2019.030759.
+[2] Park, D., Hoshi, Y., Mahajan, H. P., Kim, H. K., Erickson, Z., Rogers, W. A., & Kemp, C. C. (2020). Active robot-assisted feeding with a general-purpose mobile manipulator: Design, evaluation, and lessons learned. Robotics And Autonomous Systems, 124, 103344. https://doi.org/10.1016/j.robot.2019.103344
