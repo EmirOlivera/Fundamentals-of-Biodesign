@@ -26,7 +26,7 @@ Obi es un revolucionario dispositivo de alimentación adaptable para personas co
 Los mangos universales son herramientas diseñadas con el obejtivo de usar diferentes objetos del día a día a pacientes con problemas de movilidad motora, precisamente para las manos. Los mangos universales gracias a su diseño simple, los pacientes tetrapléjicos o daños en la médula espinal se adaptan fácilmente. Actualmente, los mangos universales se utilizan ampliamente para agarrar, manipular y ensamblar objetos de diferentes escalas, formas y cantidades en la investigación, la industria y la vida cotidiana. Por ello, son de gran valor para las personas con dificultades motoras, tales como pacientes con lesiones medulares, quienes poseen una movilidad mínima o nula de sus extremidades superiores.
 
 <br>
-  ### Imagen 3
+### Imagen 3
 
 [![Universal.jpg](https://i.postimg.cc/8zrXtQF7/Universal.jpg)](https://postimg.cc/ZW4L5Qxm)
 
