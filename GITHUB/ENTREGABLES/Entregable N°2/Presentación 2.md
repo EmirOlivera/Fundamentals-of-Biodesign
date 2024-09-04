@@ -21,8 +21,22 @@ Obi es un revolucionario dispositivo de alimentación adaptable para personas co
 [![OBI.jpg](https://i.postimg.cc/FRKtHCRN/OBI.jpg)](https://postimg.cc/PL0V64YR)
 <br>
 
+### 2. Patentes
 
+### A). KR101753987B1 - UTENSILIOS DE MESA PARA DISCAPACITADO CON LESIÓN DE LA MÉDULA ESPINAL
+Año de publicación: 2017
 
+País de procedencia: Corea
+
+Descripción:
+La patente hace referencia a una ayuda en la alimentación a personas con lesión medular espinal. Debido a la falta de fuerza que presentan en los miembros superiores, la invención se trata de una cuchara y tenedor en un mismo equipo, uno a cada lado. El cual rota para poder intercambiarlos y puede fijarse mediante un imán para que se mantenga estable.
+
+Funcionamiento:
+El invento posee una base (figura 4) que sostiene el utensilio (figura 3) y se unen mediante un imán (figura 5). El mecanismo consiste en un pivote que genera la rotación del utensilio gracias a la unión de la base con el imán. Principalmente la base está enrollada en un brazalete (figura 1) que recubre la parte del dorso de la mano. Este brazalete presenta un orificio para permitir la entrada de la base con el objetivo de permitir que el usuario pueda agarrar el utensilio sin necesidad de aplicar fuerza de agarre. Es útil porque cumple la función de cuchara/tenedor para evitar utilizar más de un utensilio a la hora de comer. 
+
+[![image.png](https://i.postimg.cc/xdbh3wkJ/image.png)](https://postimg.cc/HJd6pP9d)
+[![image.png](https://i.postimg.cc/DzjDF7tM/image.png)](https://postimg.cc/zLhpFYDC)
+[![image.png](https://i.postimg.cc/zBqBmFYj/image.png)](https://postimg.cc/v1SMf9Bg)
 
 
 # LISTA DE REQUERIMIENTOS 
