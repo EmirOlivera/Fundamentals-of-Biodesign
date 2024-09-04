@@ -1,5 +1,4 @@
 ## DIAGRAMA DE ISHIKAWA
-[![Soft-Blue-Simple-Fishbone-Diagram-Graph.png](https://i.postimg.cc/Z5PcBPTC/Soft-Blue-Simple-Fishbone-Diagram-Graph.png)](https://postimg.cc/9DMTs7wh)
-
+[![Soft-Blue-Simple-Fishbone-Diagram-Graph-1.png](https://i.postimg.cc/TwqX6zJL/Soft-Blue-Simple-Fishbone-Diagram-Graph-1.png)](https://postimg.cc/Ppx7bFcT)
 ## PROBLEMÁTICA
-La carencia de métodos de rehabilitación especializados y al alcance del paciente con lesión medular en Perú disminuye la continuidad del tratamiento.
+La falta de movilidad de los miembros superiores del paciente con lesión tipo C4 no permite que pueda realizar actividades básicas, como la alimentación, por su cuenta
