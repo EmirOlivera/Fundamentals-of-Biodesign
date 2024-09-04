@@ -12,8 +12,16 @@ El dispositivo Liftware Steady consiste en un mango estabilizador junto a un con
   ### Imagen 1
 [![Liftware.jpg](https://i.postimg.cc/GhfpwYX4/Liftware.jpg)](https://postimg.cc/fJxsY3ns)
 
+<br>
+
+### Obi:
+
+Obi es un revolucionario dispositivo de alimentación adaptable para personas con limitaciones de fuerza y movilidad en las extremidades superiores. Mediante el uso de interruptores de accesibilidad personalizables, Obi permite a sus usuarios controlar lo que comen y cuándo lo comen.Obi aumenta la independencia, la interacción social y la calidad de vida de los pacientes.
+<br>
+  ### Imagen 2
 
 <br>
+
 
 
 
