@@ -2,6 +2,8 @@
 <br>
 
 # CONTEXTO COMERCIAL
+## Equipos y dispositivos
+### Utensilios Adaptativos
 <br>
 
 
