@@ -62,6 +62,9 @@ Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una sup
 
 ### C) ES 2 915 565 T3 - DISPOSITIVO DE ASISTENCIA MUSCULAR PORTÁTIL FLEXIBLE
 
+[![patente-4.jpg](https://i.postimg.cc/7ZZzBjdz/patente-4.jpg)](https://postimg.cc/Cz9d5rFM) 
+[![patente-5.jpg](https://i.postimg.cc/QdYTv0Zy/patente-5.jpg)](https://postimg.cc/9DT07PMd)
+
 Año de publicación: 23.06.2022
 
 País de procedencia: España
