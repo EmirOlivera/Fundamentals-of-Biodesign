@@ -66,9 +66,9 @@ Año de publicación: 23.06.2022
 
 País de procedencia: España
 
-Descripción: El presente invento se refiere a un asistente muscular flexible para la flexión/extensión/soporte de la pierna y brazo para pacientes con debilidad del sistema musculoesquelético. El ovjetivo de este dispositivo es ayudar a los pacientes a seguir adecuadamente sus tareas diarias como caminar, pararse y/o cepillarse el cabello. 
+Descripción: El presente invento se refiere a un asistente muscular flexible para la flexión/extensión/soporte de la pierna y brazo para pacientes con debilidad del sistema musculoesquelético. El ovjetivo de este dispositivo es ayudar a los pacientes a seguir adecuadamente sus tareas diarias como caminar, pararse y/o cepillarse el cabello. Este tipo de asistencia se puede considerar asistencia antigravedad. 
 
-Funcionamiento: 
+Funcionamiento: Incluye componentes activos que ejerce una fuerza o torción en en alguna parte del cuerpo para cambiar su posición, esto se ve en la extensión de una articulación, y componentes pasivos oara la flexión y reposiciamiento del cuerpo proporcionando una fuerza amortiguadora. 
 
 # LISTA DE REQUERIMIENTOS 
 
