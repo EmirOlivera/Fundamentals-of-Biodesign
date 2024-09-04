@@ -63,7 +63,7 @@ Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una sup
 
 # LISTA DE REQUERIMIENTOS 
 
-[![Captura-de-pantalla-2024-09-03-225118.png](https://i.postimg.cc/nLqtZ7Ys/Captura-de-pantalla-2024-09-03-225118.png)](https://postimg.cc/Lq4W3JWR)
+[![Captura-de-pantalla-2024-09-03-225959.png](https://i.postimg.cc/0jB4720R/Captura-de-pantalla-2024-09-03-225959.png)](https://postimg.cc/V0X48whD)
 
 
 
