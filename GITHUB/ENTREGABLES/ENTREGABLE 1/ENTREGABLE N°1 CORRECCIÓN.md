@@ -40,6 +40,7 @@ Diseñar el prototipo  en diferentes vistas en la plataforma y modelarlo en dife
 <br>
 
 <br>
+
 [![Sin-t-tulo.png](https://i.postimg.cc/HxRRkVF9/Sin-t-tulo.png)](https://postimg.cc/MM0dsK6n)
 ## EDUARDO CARBAJAL 
 Estudiante de Ingeniería Biomédica, interesado en el área de Rehabilitación y Biomecánica, con el objetivo de desarrollar dispositivos innovadores que mejoren la movilidad, faciliten la recuperación y aumenten la calidad de vida de las personas.
