@@ -19,6 +19,7 @@ Obi es un revolucionario dispositivo de alimentación adaptable para personas co
 <br>
   ### Imagen 2
 [![OBI.jpg](https://i.postimg.cc/FRKtHCRN/OBI.jpg)](https://postimg.cc/PL0V64YR)
+
 <br>
 
 ### C) Mangos Universales:
@@ -27,6 +28,7 @@ Los mangos universales son herramientas diseñadas con el obejtivo de usar difer
 <br>
 ### Imagen 3
 [![Universal.jpg](https://i.postimg.cc/8zrXtQF7/Universal.jpg)](https://postimg.cc/ZW4L5Qxm)
+
 <br>
 
 ## 2. Patentes:
