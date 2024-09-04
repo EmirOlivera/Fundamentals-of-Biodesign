@@ -130,3 +130,10 @@ La falta de movilidad de los miembros superiores del paciente con lesión tipo C
 [7] Ministerio de Salud del Perú, "Instituto de Rehabilitación registra incremento de pacientes con lesiones medulares," Aug. 20, 2019. 
 
 [8] "Lesiones de la médula espinal por enfermedades y de causa traumática," *Tematica LM - FDB 2024-2*
+
+[9] C. Marquez-Chin and M. R. Popovic, “Functional electrical stimulation therapy for restoration of motor function after spinal cord injury and stroke: a review,” BioMedical Engineering OnLine, vol. 19, no. 1, May 2020, doi: 10.1186/s12938-020-00773-4.
+
+[10] P. Nepomuceno, W. H. Souza, M. Pakosh, K. E. Musselman, and B. C. Craven, “Exoskeleton-based exercises for overground gait and balance rehabilitation in spinal cord injury: a systematic review of dose and dosage parameters,” Journal of NeuroEngineering and Rehabilitation, vol. 21, no. 1, May 2024, doi: 10.1186/s12984-024-01365-2.
+
+[11] Emi A. Kiyotake, Michael D. Martin, Michael S. Detamore, “Regenerative rehabilitation with conductive biomaterials for spinal cord injury,” ScienceDirect, Acta Biomaterialia
+Volume 139, pages 43-64, February 2022, doi: 10.1186/s12950-020-10251-2.
