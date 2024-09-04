@@ -21,6 +21,15 @@ Obi es un revolucionario dispositivo de alimentación adaptable para personas co
 [![OBI.jpg](https://i.postimg.cc/FRKtHCRN/OBI.jpg)](https://postimg.cc/PL0V64YR)
 <br>
 
+### C) Mangos Universales:
+
+Los mangos universales son herramientas diseñadas con el obejtivo de usar diferentes objetos del día a día a pacientes con problemas de movilidad motora, precisamente para las manos. Los mangos universales gracias a su diseño simple, los pacientes tetrapléjicos o daños en la médula espinal se adaptan fácilmente. Actualmente, los mangos universales se utilizan ampliamente para agarrar, manipular y ensamblar objetos de diferentes escalas, formas y cantidades en la investigación, la industria y la vida cotidiana. Por ello, son de gran valor para las personas con dificultades motoras, tales como pacientes con lesiones medulares, quienes poseen una movilidad mínima o nula de sus extremidades superiores.
+
+<br>
+  ### Imagen 3
+  [![U.png](https://i.postimg.cc/QxznQxML/U.png)](https://postimg.cc/BXxgs3DN)
+
+<br>
 ### 2. Patentes
 
 ### A). KR101753987B1 - UTENSILIOS DE MESA PARA DISCAPACITADO CON LESIÓN DE LA MÉDULA ESPINAL
