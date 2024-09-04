@@ -9,6 +9,8 @@ A cargo de conseguir y ensamblar correcta y efectivamente los componentes electr
 
 <br>
 
+<br>
+
 [![foto.jpg](https://i.postimg.cc/qvY0yQtk/foto.jpg)](https://postimg.cc/nXv6t4Y5)
 ## MARIA FE MARQUEZ
 Estudiante de Ingeniería Biomédica, interesada en el área de Biomecánica con el objetivo de poder desarrollar soluciones capaces de garantizar el bienestar y calidad de vida de las personas.
@@ -17,6 +19,7 @@ A cargo del proceso de planificación de esquemas para los componentes electrico
 
 <br>
 
+<br>
 [![Alexis-bata.jpg](https://i.postimg.cc/rwsmTHrQ/Alexis-bata.jpg)](https://postimg.cc/DSVFdB5X)
 ## ALEXIS PEREZ
 Estudiante de Ingeniería Biomédica, con área de interés la Ingeniería de Tejidos y Biomateriales, con el objetivo de poder ayudar a la salud de la población mundial a base de investigaciones científicas y experimentación.
@@ -25,6 +28,7 @@ A cargo de la organización y el trabajo grupal efectivo, intermediario principa
 
 <br>
 
+<br>
 
 [![foto-yo-funbio.jpg](https://i.postimg.cc/sgghmQ5v/foto-yo-funbio.jpg)](https://postimg.cc/7fjhYLsk)
 ## ALEJANDRA ARAOZ MIRANDA
@@ -34,6 +38,7 @@ Diseñar el prototipo  en diferentes vistas en la plataforma y modelarlo en dife
 
 <br>
 
+<br>
 [![Sin-t-tulo.png](https://i.postimg.cc/HxRRkVF9/Sin-t-tulo.png)](https://postimg.cc/MM0dsK6n)
 ## EDUARDO CARBAJAL 
 Estudiante de Ingeniería Biomédica, interesado en el área de Rehabilitación y Biomecánica, con el objetivo de desarrollar dispositivos innovadores que mejoren la movilidad, faciliten la recuperación y aumenten la calidad de vida de las personas.
