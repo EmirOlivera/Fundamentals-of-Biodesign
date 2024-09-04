@@ -103,11 +103,16 @@ El INR es el único centro de referencia nacional que ofrece atención especiali
 [![Captura-de-pantalla-2024-08-27-224515.png](https://i.postimg.cc/k45m2CS6/Captura-de-pantalla-2024-08-27-224515.png)](https://postimg.cc/XZthPTQ4)
 
 <br>
+
 ## DIAGRAMA DE ISHIKAWA
 [![Soft-Blue-Simple-Fishbone-Diagram-Graph-1.png](https://i.postimg.cc/TwqX6zJL/Soft-Blue-Simple-Fishbone-Diagram-Graph-1.png)](https://postimg.cc/Ppx7bFcT)
 
+<br>
+
 ## PROBLEMÁTICA
 La falta de movilidad de los miembros superiores del paciente con lesión tipo C4 no permite que pueda realizar actividades básicas, como la alimentación, por su cuenta
+
+<br>
 
 ## Referencias Bibliograficas
 [1] Instituto Nacional de Ciencias Neurológicas, "Guía de Manejo del Traumatismo Vertebro Medular Cervical," Sept. 2020.
