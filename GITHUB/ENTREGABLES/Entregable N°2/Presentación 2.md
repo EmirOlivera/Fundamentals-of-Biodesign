@@ -101,3 +101,7 @@ Funcionamiento: Incluye componentes activos que ejerce una fuerza o torción en 
 [5] Linghu, C., Zhang, S., Wang, C., Yu, K., Li, C., Zeng, Y., Zhu, H., Jin, X., You, Z., & Song, J. (2020). Universal SMP gripper with massive and selective capabilities for multiscaled, arbitrarily shaped objects. Science Advances, 6(7). https://doi.org/10.1126/sciadv.aay5120
 
 [6] Moon. J, "TABLE UTENSILS FOR HANDICAPPED PERSON WITH SPINAL CORD INJURY", Patent 4-20 15 -0 49 50 3-3, 8 octubre, 2015.https://worldwide.espacenet.com/patent/search?q=pn%3DKR101753987B1
+
+[7] Jung. J, De Pablo. C, Linacisoro. A, Blanco. D, Thierry, K. DISPOSITIVO PORTÁTIL PARA LA REHABILITACIÓN DE LOS MIEMBROS SUPERIORES .ES 2870671T3, 27 octubre, 2021 https://patents.google.com/patent/ES2870671T3/es?oq=ES2870671T3
+
+[8] Zürich, Ch. Dispositivo de asistencia muscular portátil flexible. EP 16207252, 18 de mayo, 2022 https://patents.google.com/patent/ES2915565T3/es?oq=ES2915565T3
