@@ -27,7 +27,7 @@ Los mangos universales son herramientas diseñadas con el obejtivo de usar difer
 
 <br>
   ### Imagen 3
-  [![U.png](https://i.postimg.cc/QxznQxML/U.png)](https://postimg.cc/BXxgs3DN)
+  [![Universal.jpg](https://i.postimg.cc/8zrXtQF7/Universal.jpg)](https://postimg.cc/ZW4L5Qxm)
 
 <br>
 ### 2. Patentes
