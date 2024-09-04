@@ -71,7 +71,9 @@ Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una sup
 
 # REFERENCIAS
 
-[1] Sabari, J., Stefanov, D. G., Chan, J., Goed, L., & Starr, J. (2019). Adapted Feeding Utensils for People With Parkinson’s-Related or Essential Tremor. American Journal Of Occupational Therapy, 73(2), 7302205120p1-7302205120p9. https://doi.org/10.5014/ajot.2019.030759
+[1] Sabari, J., Stefanov, D. G., Chan, J., Goed, L., & Starr, J. (2019b). Adapted Feeding Utensils for People With Parkinson’s-Related or Essential Tremor. American Journal Of Occupational Therapy, 73(2), 7302205120p1-7302205120p9. https://doi.org/10.5014/ajot.2019.030759
+
+[2] Sabari, J., Stefanov, D. G., Chan, J., Goed, L., & Starr, J. (2019). Adapted Feeding Utensils for People With Parkinson’s-Related or Essential Tremor. American Journal Of Occupational Therapy, 73(2), 7302205120p1-7302205120p9. https://doi.org/10.5014/ajot.2019.030759
 
 [2] Park, D., Hoshi, Y., Mahajan, H. P., Kim, H. K., Erickson, Z., Rogers, W. A., & Kemp, C. C. (2020). Active robot-assisted feeding with a general-purpose mobile manipulator: Design, evaluation, and lessons learned. Robotics And Autonomous Systems, 124, 103344. https://doi.org/10.1016/j.robot.2019.103344.
 
