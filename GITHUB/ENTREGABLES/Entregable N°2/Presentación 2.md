@@ -24,7 +24,7 @@ Obi es un revolucionario dispositivo de alimentación adaptable para personas co
 
 ### C) Mangos Universales:
 
-Los mangos universales son herramientas diseñadas con el obejtivo de usar diferentes objetos del día a día a pacientes con problemas de movilidad motora, precisamente para las manos. Los mangos universales gracias a su diseño simple, los pacientes tetrapléjicos o daños en la médula espinal se adaptan fácilmente. Actualmente, los mangos universales se utilizan ampliamente para agarrar, manipular y ensamblar objetos de diferentes escalas, formas y cantidades en la investigación, la industria y la vida cotidiana. Por ello, son de gran valor para las personas con dificultades motoras, tales como pacientes con lesiones medulares, quienes poseen una movilidad mínima o nula de sus extremidades superiores.
+Los mangos universales son herramientas diseñadas con el obejtivo de usar diferentes objetos del día a día a pacientes con problemas de movilidad motora, precisamente para las manos. Los mangos universales gracias a su diseño simple, los pacientes tetrapléjicos o daños en la médula espinal se adaptan fácilmente. Actualmente, los mangos universales se utilizan ampliamente para agarrar, manipular y ensamblar objetos de diferentes escalas, formas y cantidades en la investigación, la industria y la vida cotidiana [5]. Por ello, son de gran valor para las personas con dificultades motoras, tales como pacientes con lesiones medulares, quienes poseen una movilidad mínima o nula de sus extremidades superiores.
 <br>
 ### Imagen 3
 [![Universal.jpg](https://i.postimg.cc/8zrXtQF7/Universal.jpg)](https://postimg.cc/ZW4L5Qxm)
@@ -78,3 +78,5 @@ Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una sup
 [3] Lincoln, A. S. A. (2020, 18 noviembre). Sistema de asistencia para personas cuadripléjicas que permite la manipulación de un mecanismo robótico mediante la voz. https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17514
 
 [4] Hansen, T. C., Tully, T. N., Mathews, V. J., & Warren, D. J. (2024b). A Multimodal Assistive-Robotic-Arm Control System to Increase Independence After Tetraplegia. IEEE Transactions On Neural Systems And Rehabilitation Engineering, 32, 2124-2133. https://doi.org/10.1109/tnsre.2024.3408833
+
+[5] Linghu, C., Zhang, S., Wang, C., Yu, K., Li, C., Zeng, Y., Zhu, H., Jin, X., You, Z., & Song, J. (2020). Universal SMP gripper with massive and selective capabilities for multiscaled, arbitrarily shaped objects. Science Advances, 6(7). https://doi.org/10.1126/sciadv.aay5120
