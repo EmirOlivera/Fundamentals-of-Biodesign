@@ -31,7 +31,7 @@ Los mangos universales son herramientas diseñadas con el obejtivo de usar difer
 [![Universal.jpg](https://i.postimg.cc/8zrXtQF7/Universal.jpg)](https://postimg.cc/ZW4L5Qxm)
 
 <br>
-### 2. Patentes
+### 2. Patentes:
 
 ### A). KR101753987B1 - UTENSILIOS DE MESA PARA DISCAPACITADO CON LESIÓN DE LA MÉDULA ESPINAL
 Año de publicación: 2017
