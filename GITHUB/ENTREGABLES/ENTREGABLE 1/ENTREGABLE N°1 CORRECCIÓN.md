@@ -67,8 +67,13 @@ A cargo de llevar a cabo el proceso de fabricación utilizando tecnologías avan
 
 -DISCECTOMIA: Es una cirugía para extirpar todo o parte de la amortiguación que ayuda a sostener parte de la columna vertebral. Estas amortiguaciones se denominan discos y son los que separan los huesos de la columna (vértebras). (4)
 
+
+<br>
+
 ## 2. Desarrollo de la tematica
 Refiere que el 24 de febrero del 2013, en Pucallpa, sufrió accidente de tráfico, mientras conducía moto lineal (fue impactado por auto). Fue atendido inicialmente en clínica local, luego en EsSalud. Trajo el informe médico, con diagnósticos: “TVM, corporectomia C4, vejiga neurogenica y discectomia”. Posteriormente, acude por primera vez al INR el 19 de setiembre del 2013, ingresó a hospitalización del INR en el periodo de 8/8/2014 al 8/1/2015. Tras el alta, no continuo controles es la institución. Luego retoma atenciones en agosto 2023, se indica el reingreso para manejo vesical el 18/10/2023, programando su ingreso. Se observa que fue operado de osificación periarticular de cadera izquierda en el 2016, el Pucallpa.
+
+<br>
 
 ## 3. Contexto Mundial
 Las historias de personas que, a lo largo de los años, han enfrentado la vida con las secuelas de una lesión de la médula espinal (LME) muestran una gran diversidad, reflejando las variadas experiencias de las personas en un mismo país, provincia o ciudad. La calidad de vida de quienes sufren una lesión medular en esta región está influenciada por múltiples factores, que van desde aspectos personales como la resiliencia y el nivel de escolaridad, hasta el grado de actividad laboral, la edad, las morbilidades previas y las redes de apoyo. Sin embargo, los factores socioeconómicos, especialmente la pobreza y la pobreza extrema, son determinantes cruciales. Estas condiciones exacerban las dificultades, limitando aún más las posibilidades de superar las secuelas de una lesión medular y dificultando el acceso a servicios y productos de apoyo esenciales para la reintegración social y la calidad de vida de los pacientes.
@@ -83,6 +88,8 @@ Un análisis epidemiológico global de 2021 realizado por B. B. Lee y colaborado
 
 Globalmente, las lesiones medulares traumáticas presentan un patrón bimodal: predominan entre los hombres de 18 a 32 años y en las mujeres de 65 años o más. En países de ingresos altos, las lesiones medulares son mayormente causadas por accidentes de tránsito y caídas, mientras que en países de ingresos bajos, han aumentado debido a caídas en trabajos realizados en altura y violencia. Además, se observa un incremento en lesiones no traumáticas. Las personas con lesiones medulares no traumáticas (LME/NT) tienen un perfil demográfico diferente y una prevalencia más baja de complicaciones en comparación con las lesiones traumáticas (LME/T). En América Latina, se reporta un aumento en lesiones medulares causadas por violencia, incluidas heridas por arma de fuego. En la población adulta mayor, han aumentado las lesiones cervicales debido a caídas, aunque las causadas por accidentes de tránsito han disminuido.[5]
 
+<br>
+
 ## 4. Contexto Nacional
 El Instituto Nacional de Rehabilitación (INR) en Perú ha visto un aumento en el número de pacientes con lesiones medulares, una tendencia preocupante dado el impacto significativo de estas lesiones en la calidad de vida. El INR se ha consolidado como un centro clave para ofrecer estos servicios, pero el incremento en los casos destaca la necesidad de fortalecer la capacidad y los recursos en el ámbito nacional. Este aumento refleja una necesidad urgente de políticas públicas más robustas que prioricen la prevención de accidentes y la mejora de los servicios de rehabilitación en todo el país, especialmente en áreas con acceso limitado a estos servicios. La situación actual subraya la importancia de continuar desarrollando y expandiendo estos programas para abordar de manera efectiva la creciente demanda y mejorar la calidad de vida de aquellos afectados por lesiones medulares en Perú.(7)
 
@@ -90,8 +97,12 @@ Las lesiones de médula espinal en Perú representan un desafío importante para
 
 El INR es el único centro de referencia nacional que ofrece atención especializada para estos pacientes, brindando un enfoque integral que incluye rehabilitación física, manejo de complicaciones secundarias (como disfunción vesical y úlceras por presión), y apoyo para la reintegración social.
 
+<br>
+
 ## 5. Cuadro del caso medico
 [![Captura-de-pantalla-2024-08-27-224515.png](https://i.postimg.cc/k45m2CS6/Captura-de-pantalla-2024-08-27-224515.png)](https://postimg.cc/XZthPTQ4)
+
+<br>
 
 ## Referencias Bibliograficas
 [1] Instituto Nacional de Ciencias Neurológicas, "Guía de Manejo del Traumatismo Vertebro Medular Cervical," Sept. 2020.
