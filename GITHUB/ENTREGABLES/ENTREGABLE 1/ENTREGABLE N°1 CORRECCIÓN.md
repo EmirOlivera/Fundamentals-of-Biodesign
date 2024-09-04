@@ -10,6 +10,8 @@ A cargo de conseguir y ensamblar correcta y efectivamente los componentes electr
 <br>
 
 <br>
+<br>
+
 
 [![foto.jpg](https://i.postimg.cc/qvY0yQtk/foto.jpg)](https://postimg.cc/nXv6t4Y5)
 ## MARIA FE MARQUEZ
@@ -19,6 +21,7 @@ A cargo del proceso de planificación de esquemas para los componentes electrico
 
 <br>
 
+<br>
 <br>
 
 [![Alexis-bata.jpg](https://i.postimg.cc/rwsmTHrQ/Alexis-bata.jpg)](https://postimg.cc/DSVFdB5X)
@@ -30,6 +33,7 @@ A cargo de la organización y el trabajo grupal efectivo, intermediario principa
 <br>
 
 <br>
+<br>
 
 [![foto-yo-funbio.jpg](https://i.postimg.cc/sgghmQ5v/foto-yo-funbio.jpg)](https://postimg.cc/7fjhYLsk)
 ## ALEJANDRA ARAOZ MIRANDA
@@ -39,6 +43,7 @@ Diseñar el prototipo  en diferentes vistas en la plataforma y modelarlo en dife
 
 <br>
 
+<br>
 <br>
 
 [![Sin-t-tulo.png](https://i.postimg.cc/HxRRkVF9/Sin-t-tulo.png)](https://postimg.cc/MM0dsK6n)
