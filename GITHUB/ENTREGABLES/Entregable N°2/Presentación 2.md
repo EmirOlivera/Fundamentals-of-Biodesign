@@ -78,7 +78,9 @@ Funcionamiento: Incluye componentes activos que ejerce una fuerza o torción en 
 
 
 # PROPUESTA DE SOLUCIÓN
-
+<br>
+## Dispositivo enfocado en el uso de un balancín y utensilios adaptativos para promover la independencia alimenticia en pacientes con discapacidad motora causada por lesiones medulares tipo C4.
+<br>
 # REFERENCIAS
 
 [1] Sabari, J., Stefanov, D. G., Chan, J., Goed, L., & Starr, J. (2019b). Adapted Feeding Utensils for People With Parkinson’s-Related or Essential Tremor. American Journal Of Occupational Therapy, 73(2), 7302205120p1-7302205120p9. https://doi.org/10.5014/ajot.2019.030759
