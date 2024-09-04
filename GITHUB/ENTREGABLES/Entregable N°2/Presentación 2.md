@@ -80,3 +80,5 @@ Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una sup
 [4] Hansen, T. C., Tully, T. N., Mathews, V. J., & Warren, D. J. (2024b). A Multimodal Assistive-Robotic-Arm Control System to Increase Independence After Tetraplegia. IEEE Transactions On Neural Systems And Rehabilitation Engineering, 32, 2124-2133. https://doi.org/10.1109/tnsre.2024.3408833
 
 [5] Linghu, C., Zhang, S., Wang, C., Yu, K., Li, C., Zeng, Y., Zhu, H., Jin, X., You, Z., & Song, J. (2020). Universal SMP gripper with massive and selective capabilities for multiscaled, arbitrarily shaped objects. Science Advances, 6(7). https://doi.org/10.1126/sciadv.aay5120
+
+[6] Moon. J, "TABLE UTENSILS FOR HANDICAPPED PERSON WITH SPINAL CORD INJURY", Patent 4-20 15 -0 49 50 3-3, 8 octubre, 2015.https://worldwide.espacenet.com/patent/search?q=pn%3DKR101753987B1
