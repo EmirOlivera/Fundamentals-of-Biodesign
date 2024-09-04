@@ -63,7 +63,7 @@ Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una sup
 ### C) ES 2 915 565 T3 - DISPOSITIVO DE ASISTENCIA MUSCULAR PORTÁTIL FLEXIBLE
 
 [![patente-4.jpg](https://i.postimg.cc/7ZZzBjdz/patente-4.jpg)](https://postimg.cc/Cz9d5rFM) 
-[![patente-5.jpg](https://i.postimg.cc/QdYTv0Zy/patente-5.jpg)](https://postimg.cc/9DT07PMd)
+[![patente-7.jpg](https://i.postimg.cc/4y1KP11w/patente-7.jpg)](https://postimg.cc/m1t22CJF)
 
 Año de publicación: 23.06.2022
 
@@ -72,6 +72,8 @@ País de procedencia: España
 Descripción: El presente invento se refiere a un asistente muscular flexible para la flexión/extensión/soporte de la pierna y brazo para pacientes con debilidad del sistema musculoesquelético. El ovjetivo de este dispositivo es ayudar a los pacientes a seguir adecuadamente sus tareas diarias como caminar, pararse y/o cepillarse el cabello. Este tipo de asistencia se puede considerar asistencia antigravedad. 
 
 Funcionamiento: Incluye componentes activos que ejerce una fuerza o torción en en alguna parte del cuerpo para cambiar su posición, esto se ve en la extensión de una articulación, y componentes pasivos oara la flexión y reposiciamiento del cuerpo proporcionando una fuerza amortiguadora. 
+
+[![patente-6.jpg](https://i.postimg.cc/XNKynV0F/patente-6.jpg)](https://postimg.cc/PNxq4nJr)
 
 # LISTA DE REQUERIMIENTOS 
 
