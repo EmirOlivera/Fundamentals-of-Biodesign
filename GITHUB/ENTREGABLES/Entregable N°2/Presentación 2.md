@@ -60,6 +60,8 @@ Descripción: Dispositivo portátil de rehabilitación para usuarios discapacita
 
 Funcionamiento: El soporte 10 (o plataforma móvil) se puede mover sobre una superficie como la de una mesa. El dispositivo incluye un potenciómetro, u otro sensor, y un sensor óptico para calcular el ángulo de rotación en todo momento. En las celdas 31 y 32 se mide la fuerza ejercida. Luego se comprueba si la fuerza dura un intervalo de tiempo mínimo para seguir con el movimiento, de lo contrario se calcula la fuerza de nuevo. Esto ayuda a diferenciar entre intención de movimiento o algún temblor del usuario. Después de confirmar la intención de movimiento, se procede a diferenciar la dirección del movimiento ( adelante F, atrás B, derecha R, izquierda L) según el ángulo de orientación del dispositivo.
 
+[![IMG-3493.jpg](https://i.postimg.cc/prbQS7B3/IMG-3493.jpg)](https://postimg.cc/47Ph7Wq1)
+
 ### C) ES 2 915 565 T3 - DISPOSITIVO DE ASISTENCIA MUSCULAR PORTÁTIL FLEXIBLE
 
 [![patente-4.jpg](https://i.postimg.cc/7ZZzBjdz/patente-4.jpg)](https://postimg.cc/Cz9d5rFM) 
