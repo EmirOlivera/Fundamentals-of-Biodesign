@@ -42,15 +42,14 @@ Objetivos específicos:
 
 
 # RESUMEN
-Problemática y solución propuesta:
+## Problemática y solución propuesta:
 Las personas con lesiones de médula espinal (LME) enfrentan dificultades que afectan su independencia y la calidad de vida, especialmente en el acceso a servicios esenciales y oportunidades de rehabilitación. La propuesta del proyecto se centra en el diseño de un dispositivo asistencial para personas con limitación en los brazos, que permita alimentarse de manera independiente. Este prototipo utiliza sensores y un mecanismo para elevar el brazo del paciente, dándole la capacidad de llevar un utensilio a su boca sin esfuerzo adicional.
 
-Resultados esperados: 
+## Resultados esperados: 
 Se espera que el dispositivo brinde a los pacientes mayor independencia al comer, permitiendo realizar movimientos esenciales sin la ayuda de terceros. El éxito del dispositivo radicará en su capacidad de estabilizar el brazo durante la alimentación, evitando derrames y facilitando el proceso.
 Para testear el prototipo, se planea realizar pruebas conceptuales que evalúen su funcionamiento en un entorno adecuado, verificando los resultados de los sensores y la facilidad de uso por parte del paciente.
 
-Siguientes pasos:
-
+## Siguientes pasos:
 Prototipar el dispositivo utilizando impresión 3D.
 Ensamblar los componentes electrónicos necesarios.
 Realizar pruebas con pacientes y ajustar el diseño según los resultados obtenidos.
