@@ -41,5 +41,17 @@ Las malas posturas del cuello suelen provocar dolores cervicales que, con el tie
 #### IMAGEN 5 - INCORRECTA POSTURA
 [![IMAGEN-3-1.gif](https://i.postimg.cc/3wkmZzJQ/IMAGEN-3-1.gif)](https://postimg.cc/8FV7pK6Z)
 ##
-
 Link: https://ieeexplore.ieee.org/document/8836806
+##
+### 4. Sensoring the Neck: Classifying Movements and Actions with a Neck-Mounted Wearable Device †
+
+La tecnología de sensores que capta información de la región del cuello del usuario puede ofrecer nuevas posibilidades, como interfaces de software móvil menos intrusivas. En este trabajo investigamos la viabilidad de utilizar un único sensor flexible de bajo coste montado en el cuello para captar información sobre los gestos de la cabeza, los movimientos de la boca y la presencia de habla audible. Se evalúan experimentalmente distintos tamaños y posiciones del sensor en el cuello. Con los datos recogidos en los experimentos realizados con el prototipo finalizado, se consigue una precisión de clasificación del 91% en la diferenciación de los gestos comunes de la cabeza, una precisión de clasificación del 63% en la diferenciación de los movimientos de la boca y una precisión de clasificación del 83% en la detección del habla.
+##
+### IMAGEN 6 - SENSORES CORTOS (a), (b) y (c)
+[![IMAGEN-4-1.png](https://i.postimg.cc/3wNHRFrw/IMAGEN-4-1.png)](https://postimg.cc/dhbfNdyM)
+##
+### IMAGEN 7 - SENSOR LARGO
+[![IMAGEN-4-2.webp](https://i.postimg.cc/d0fcTZDj/IMAGEN-4-2.webp)](https://postimg.cc/Ff0BMRyY)
+##
+Link: https://www.mdpi.com/1424-8220/22/12/4313
+
