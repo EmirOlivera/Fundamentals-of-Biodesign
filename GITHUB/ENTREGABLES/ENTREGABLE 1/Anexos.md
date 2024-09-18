@@ -23,3 +23,11 @@ Las personas con enfermedad de Parkinson pueden experimentar alteraciones motora
 [![IMAGEN-3.jpg](https://i.postimg.cc/4NCTBG8X/IMAGEN-3.jpg)](https://postimg.cc/JtQgzfVF)
 ##
 Link: https://pubmed.ncbi.nlm.nih.gov/32410462/
+### ENSAYO CLÍNICO 
+## Título: Robot assisted training for the upper limb after stroke (RATULS): a multicentre randomised controlled trial 
+### Autor: Helen Rodgers,etc
+### Año de publicación: 2019
+ - Descripción: Ensayo clínico de pacientes con pérdida de la función del brazo después de un accidente cerebrovascular (stroke), realizado en 4 centros de Reino Unido. Se comparó la efectividad del entrenamiento asistido por robot utilizando el gimnasio robótico MIT-Manus con un programa de terapia mejorada de miembros superiores (EULT), la cual está basada en tareas funcionales repetitivas, y con la atención usual.
+ - Población: Se inscribieron un total de 770 participantes (mayores de edad). 257 pacientes tuvieron un entrenamiento asistido por robot, 259 EULT, y 254 atención habitual.
+ - Método : Se impartieron programas por 12 semanas con la misma frecuencia de 3 veces a la semana y misma duración de 45 minutos de terapia presencial. Para el entrenamiento asistido por robot integró los 3 módulos del gimnasio robótico (módulo hombro-codo, módulo muñeca, módulo mano integrado en el módulo hombro-codo).
+ - Resultados : No se encontraron diferencias de mejora utilizando culquiera de los 3 entrenamientos. Algunas diferencias secundarias sugieren posibles beneficios para EULT y el entrenamiento asistido por robot en la práctica clínica e investigación futura. 
