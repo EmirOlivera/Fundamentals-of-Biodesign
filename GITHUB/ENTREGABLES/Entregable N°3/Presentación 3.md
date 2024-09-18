@@ -16,7 +16,8 @@ Nuestro proyecto está enfocado en personas que tienen movimiento restringido de
 ## BENEFICIOS
  - Sin pérdida del movimiento que el paciente si puede hacer según la escala ASIA
  - Independencia para ingerir alimentos
- - 
+ - Motivación en continuar la rehabilitación
+ - Portátil, solo es necesario una superficie plana
 ## VIABILIDAD TÉCNICA
 Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viabilidad:
 
