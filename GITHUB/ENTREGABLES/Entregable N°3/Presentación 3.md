@@ -19,5 +19,20 @@ Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viab
 *Diseño 3D: Nuestro dispositivo es de un tamaño mediano, por lo tanto se puede diseñar y ensamblar por partes más pequeñas que las máquinas de impresión 3D si puedan fabricar. 
 *Diseño electrónico: 
 # COHERENCIA
+##
+## CONTEXTO DEL PROYECTO 
+Nuestra propuesta de solución se relaciona con la temática debido a que buscamos generar una mayor independencia en pacientes que se ven afectados de realizar actividades diarias como ingerir alimento debido a lesiones medulares. La propuesta está basada en un mecanismo que genera un apoyo adicional a la hora de comer para que el paciente logre realizar el movimiento de “barrido” en el brazo. En el caso escogido, es necesaria esta solución debido a que buscamos que el paciente logre ingerir alimentos, lo cual es considerado una actividad esencial, por ende es importante que pueda ejecutarla sin la necesidad de requerir ayuda adicional. 
+Por otro lado, la propuesta busca mejorar ciertos dispositivos ya existentes y generar una mayor accesibilidad para su uso tanto dentro como fuera del centro de rehabilitación. 
+##
+## OBJETIVOS DEL PROYECTO
+Objetivo general: 
+Permitir la independencia al momento de ingerir alimentos mediante el uso de un dispositivo de apoyo en paciente con discapacidad de miembros superiores causada por lesión medular.
+
+Objetivos específicos:
+- Crear un mecanismo funcional capaz de ayudar a realizar el movimiento de brazo desde el plato hasta la boca del paciente.
+- Generar estabilidad en el brazo a la hora de comer para evitar la caida de comida.
+- Realizar un dispositivo de bajo costo para que sea asequible para una mayoría de personas.
+
+
 
 # RESUMEN
