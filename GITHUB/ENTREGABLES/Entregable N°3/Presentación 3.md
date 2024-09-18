@@ -14,12 +14,16 @@ Acerca del paciente, el 24 de febrero del 2013, en Pucallpa, sufrió accidente d
 Nuestro proyecto está enfocado en personas que tienen movimiento restringido de brazos debido a una lesión medular y no puedan comer por si mismos. Nuestro prototipo asistirá y será un soporte para el brazo dominante del paciente. Con el movimiento del cuello el dispositivo levantará, con torque en el codo, y mantendrá el brazo del paciente a una altura adecuada. Después, sin la gravedad presente, el mismo usuario podrá llevar el utensilio a su boca. Nuestro prototipo se consideraría de asistencia y soporte, como a su vez un dispositivo anti-gravedad. 
 ## CARACTERÍSTICAS DEL PROTOTIPO
 ## BENEFICIOS
+ - Sin pérdida del movimiento que el paciente si puede hacer según la escala ASIA
+ - Independencia para ingerir alimentos
+ - 
 ## VIABILIDAD TÉCNICA
 Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viabilidad:
 
 -Diseño 3D: Nuestro dispositivo es de un tamaño mediano, por lo tanto se puede diseñar y ensamblar por partes más pequeñas que las máquinas de impresión 3D si puedan fabricar. 
 
 -Diseño electrónico: Nuestro dispositivo tendrá una base considerablemente grande para ensamblar los componentes electrónicos necesarios dentro. Para la función de levantar el brazo del usuario necesitaremos sensores de flexión y/o de posición, y una potencia para que lea los indicadores de los sensores y pueda elevar la parte del dispositivo donde reposa la muñeca del usuario. 
+
 # COHERENCIA
 ##
 ## CONTEXTO DEL PROYECTO 
