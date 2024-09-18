@@ -13,6 +13,10 @@ Acerca del paciente, el 24 de febrero del 2013, en Pucallpa, sufrió accidente d
 ## DESCRIPCIÓN
 Nuestro proyecto está enfocado en personas que tienen movimiento restringido de brazos debido a una lesión medular y no puedan comer por si mismos. Nuestro prototipo asistirá y será un soporte para el brazo dominante del paciente. Con el movimiento del cuello el dispositivo levantará, con torque en el codo, y mantendrá el brazo del paciente a una altura adecuada. Después, sin la gravedad presente, el mismo usuario podrá llevar el utensilio a su boca. Nuestro prototipo se consideraría de asistencia y soporte, como a su vez un dispositivo anti-gravedad. 
 ## CARACTERÍSTICAS DEL PROTOTIPO
+- Movimiento: El movimiento de la muñeca hacia la boca es primero hacia arriba, y se detiene a la altura de la boca para que el paciente termine el camino y pueda comer por su cuenta.
+- Soporte: Nuestro dispositivo tiene una parte que sirve de soporte del brazo, con agarre en la muñeca y el codo. 
+- Elevación: La elevación se dará dependiendo del movimiento del cuello. Por ejemplo, si el paciente quiere llevar el utensilio a la boca moverá su cuello hacia adelante, nuestro dispositivo detectará su intención y procederá a elevar la parte donde reposa la muñeca. Por  otro lado, si el paciente quiere bajar el utensilio tendrá que llevar su cuello a la posición original.
+- Anti-gravedad: Según la escala ASIA, el paciente si puede mover su brazo pero si no hay gravedad. Para ello, nuestro dispositivo servirá de soporte, ya sea que esté elevado o no, para que el brazo del paciente no sienta el peso de la gravedad. 
 ## BENEFICIOS
  - Sin pérdida del movimiento que el paciente si puede hacer según la escala ASIA
  - Independencia para ingerir alimentos
