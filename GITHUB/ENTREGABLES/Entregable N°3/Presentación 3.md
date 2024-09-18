@@ -25,9 +25,9 @@ Nuestro proyecto está enfocado en personas que tienen movimiento restringido de
 ## VIABILIDAD TÉCNICA
 Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viabilidad:
 
- -Diseño 3D: Nuestro dispositivo es de un tamaño mediano, por lo tanto se puede diseñar y ensamblar por partes más pequeñas que las máquinas de impresión 3D si puedan fabricar. Necesitamos los conocimientos de ensamblaje por partes, especialmente partes que puedan girar con respecto a otras. 
+ -Diseño 3D: Nuestro dispositivo es de un tamaño mediano, por lo tanto se puede diseñar y ensamblar por partes más pequeñas que las máquinas de impresión 3D si puedan fabricar. Necesitamos los conocimientos de ensamblaje por partes, especialmente partes que puedan girar con respecto a otras. Para la impresión 3D necesitamos manejar aplicaciones como Autodesk Inventor, Ultimaker Cura u otros. 
 
- -Diseño electrónico: Nuestro dispositivo tendrá una base considerablemente grande para ensamblar los componentes electrónicos necesarios dentro. Para la función de levantar el brazo del usuario necesitaremos sensores de flexión y/o de posición, y una potencia para que lea los indicadores de los sensores y pueda elevar la parte del dispositivo donde reposa la muñeca del usuario; y para el funcioanmiento general del dispositivo necesitamos también componentes como cables, resistencias, protoboard, arduino 1, etc. 
+ -Diseño electrónico: Nuestro dispositivo tendrá una base considerablemente grande para ensamblar los componentes electrónicos necesarios dentro. Para la función de levantar el brazo del usuario necesitaremos sensores de flexión y/o de posición, y una potencia para que lea los indicadores de los sensores y pueda elevar la parte del dispositivo donde reposa la muñeca del usuario; y para el funcioanmiento general del dispositivo necesitamos también componentes como cables, resistencias, protoboard, arduino 1, etc. Para el diseño digital usaremos Tinkercad u otra aplicación similar.
 
 # COHERENCIA
 ##
