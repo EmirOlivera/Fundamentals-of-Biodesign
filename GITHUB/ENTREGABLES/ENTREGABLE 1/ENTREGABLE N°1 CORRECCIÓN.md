@@ -105,7 +105,7 @@ El INR es el único centro de referencia nacional que ofrece atención especiali
 <br>
 
 ## DIAGRAMA DE ISHIKAWA
-[![Soft-Blue-Simple-Fishbone-Diagram-Graph-1.png](https://i.postimg.cc/TwqX6zJL/Soft-Blue-Simple-Fishbone-Diagram-Graph-1.png)](https://postimg.cc/Ppx7bFcT)
+[![Soft-Blue-Simple-Fishbone-Diagram-Graph-2.png](https://i.postimg.cc/KvvXmtVh/Soft-Blue-Simple-Fishbone-Diagram-Graph-2.png)](https://postimg.cc/rzbZJRMf)
 
 <br>
 
