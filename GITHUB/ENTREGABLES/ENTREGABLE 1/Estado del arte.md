@@ -72,3 +72,9 @@ La neuroplasticidad se presenta como un enfoque importante y viable para la recu
 
 [3] Emi A. Kiyotake, Michael D. Martin, Michael S. Detamore, “Regenerative rehabilitation with conductive biomaterials for spinal cord injury,” ScienceDirect, Acta Biomaterialia
 Volume 139, pages 43-64, February 2022, doi: 10.1186/s12950-020-10251-2.
+
+
+### ENSAYO CLÍNICO 
+## Título: Robot assisted training for the upper limb after stroke (RATULS): a multicentre randomised controlled trial 
+### Autor: Helen Rodgers,etc
+### Año de publicación: 2019
