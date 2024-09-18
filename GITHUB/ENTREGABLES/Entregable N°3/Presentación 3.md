@@ -50,7 +50,7 @@ Se espera que el dispositivo brinde a los pacientes mayor independencia al comer
 Para testear el prototipo, se planea realizar pruebas conceptuales que evalúen su funcionamiento en un entorno adecuado, verificando los resultados de los sensores y la facilidad de uso por parte del paciente.
 
 ## Siguientes pasos:
-Prototipar el dispositivo utilizando impresión 3D.
-Ensamblar los componentes electrónicos necesarios.
-Realizar pruebas con pacientes y ajustar el diseño según los resultados obtenidos.
-Optimizar el costo de fabricación para hacerlo accesible a una mayor población.
+- Prototipar el dispositivo utilizando impresión 3D.
+- Ensamblar los componentes electrónicos necesarios.
+- Realizar pruebas con pacientes y ajustar el diseño según los resultados obtenidos.
+- Optimizar el costo de fabricación para hacerlo accesible a una mayor población.
