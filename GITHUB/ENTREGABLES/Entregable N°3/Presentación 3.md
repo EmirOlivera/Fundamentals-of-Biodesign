@@ -15,7 +15,9 @@ Nuestro proyecto está enfocado en personas que tienen movimiento restringido de
 ## CARACTERÍSTICAS DEL PROTOTIPO
 ## BENEFICIOS
 ## VIABILIDAD TÉCNICA
-
+Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viabilidad:
+*Diseño 3D: Nuestro dispositivo es de un tamaño mediano, por lo tanto se puede diseñar y ensamblar por partes más pequeñas que las máquinas de impresión 3D si puedan fabricar. 
+*Diseño electrónico: 
 # COHERENCIA
 
 # RESUMEN
