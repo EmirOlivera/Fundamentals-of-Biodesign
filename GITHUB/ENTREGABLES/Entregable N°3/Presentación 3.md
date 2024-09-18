@@ -32,8 +32,8 @@ Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viab
 # COHERENCIA
 ##
 ## CONTEXTO DEL PROYECTO 
-Nuestra propuesta de solución se relaciona con la temática debido a que buscamos generar una mayor independencia en pacientes que se ven afectados de realizar actividades diarias como ingerir alimento debido a lesiones medulares. La propuesta está basada en un mecanismo que genera un apoyo adicional a la hora de comer para que el paciente logre realizar el movimiento de “barrido” en el brazo. En el caso escogido, es necesaria esta solución debido a que buscamos que el paciente logre ingerir alimentos, lo cual es considerado una actividad esencial, por ende es importante que pueda ejecutarla sin la necesidad de requerir ayuda adicional. 
-Por otro lado, la propuesta busca mejorar ciertos dispositivos ya existentes y generar una mayor accesibilidad para su uso tanto dentro como fuera del centro de rehabilitación. 
+Nuestra propuesta de solución se relaciona con la problemática debido a que buscamos generar una mayor independencia en pacientes que se ven afectados de realizar actividades diarias como ingerir alimento debido a lesiones medulares. La propuesta está basada en un mecanismo que genera un apoyo adicional a la hora de comer para que el paciente logre realizar el movimiento de “barrido” en el brazo. En el caso escogido, es importante abordar esta problematica mediante una propuesta de solución basada en mejorar la calidad de vida del paciente, por ende buscamos que logre ingerir alimentos, lo cual es una actividad esencial, por lo que es necesario que pueda ejecutarla sin la necesidad de requerir ayuda adicional. 
+Por otro lado, la propuesta busca mejorar ciertos dispositivos ya existentes, adaptandolos al contexto del usuario y generar una mayor accesibilidad para su uso tanto dentro como fuera del centro de rehabilitación. 
 ##
 ## OBJETIVOS DEL PROYECTO
 Objetivo general: 
