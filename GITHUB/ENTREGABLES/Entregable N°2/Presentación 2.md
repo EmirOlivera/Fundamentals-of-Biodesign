@@ -79,7 +79,7 @@ Funcionamiento: Incluye componentes activos que ejerce una fuerza o torción en 
 
 # LISTA DE REQUERIMIENTOS 
 
-[![Captura-de-pantalla-2024-09-03-225959.png](https://i.postimg.cc/0jB4720R/Captura-de-pantalla-2024-09-03-225959.png)](https://postimg.cc/V0X48whD)
+[![Captura-de-pantalla-2024-09-17-211737.png](https://i.postimg.cc/bYGpC3tN/Captura-de-pantalla-2024-09-17-211737.png)](https://postimg.cc/Z0hG0PH1)
 [![Captura-de-pantalla-2024-09-03-232142.png](https://i.postimg.cc/1tHXmbcN/Captura-de-pantalla-2024-09-03-232142.png)](https://postimg.cc/PpCTK37t)
 
 <br>
