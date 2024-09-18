@@ -11,7 +11,7 @@ Acerca del paciente, el 24 de febrero del 2013, en Pucallpa, sufrió accidente d
 
 # PROPUESTA DE SOLUCIÓN
 ## DESCRIPCIÓN
-Nuestro proyecto está enfocado en personas que tienen movimiento restringido de brazos debido a una lesión medular y no puedan comer por si mismos. Nuestro prototipo asistirá y será un soporte para el brazo dominante del paciente. Con el movimiento del cuello el dispositivo levantará y mantendrá el brazo del paciente a una altura adecuada. Después, teniendo ya un soporte, el mismo usuario lleve el utensilio a su boca. Nuestro prototipo se consideraría de asistencia y soporte, como a su vez un dispositivo anti-gravedad. 
+Nuestro proyecto está enfocado en personas que tienen movimiento restringido de brazos debido a una lesión medular y no puedan comer por si mismos. Nuestro prototipo asistirá y será un soporte para el brazo dominante del paciente. Con el movimiento del cuello el dispositivo levantará, con torque en el codo, y mantendrá el brazo del paciente a una altura adecuada. Después, sin la gravedad presente, el mismo usuario podrá llevar el utensilio a su boca. Nuestro prototipo se consideraría de asistencia y soporte, como a su vez un dispositivo anti-gravedad. 
 ## CARACTERÍSTICAS DEL PROTOTIPO
 ## BENEFICIOS
 ## VIABILIDAD TÉCNICA
