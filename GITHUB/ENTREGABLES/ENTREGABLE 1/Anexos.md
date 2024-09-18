@@ -30,4 +30,16 @@ Link: https://pubmed.ncbi.nlm.nih.gov/32410462/
  - Descripción: Ensayo clínico de pacientes con pérdida de la función del brazo después de un accidente cerebrovascular (stroke), realizado en 4 centros de Reino Unido. Se comparó la efectividad del entrenamiento asistido por robot utilizando el gimnasio robótico MIT-Manus con un programa de terapia mejorada de miembros superiores (EULT), la cual está basada en tareas funcionales repetitivas, y con la atención usual.
  - Población: Se inscribieron un total de 770 participantes (mayores de edad). 257 pacientes tuvieron un entrenamiento asistido por robot, 259 EULT, y 254 atención habitual.
  - Método : Se impartieron programas por 12 semanas con la misma frecuencia de 3 veces a la semana y misma duración de 45 minutos de terapia presencial. Para el entrenamiento asistido por robot integró los 3 módulos del gimnasio robótico (módulo hombro-codo, módulo muñeca, módulo mano integrado en el módulo hombro-codo).
- - Resultados : No se encontraron diferencias de mejora utilizando culquiera de los 3 entrenamientos. Algunas diferencias secundarias sugieren posibles beneficios para EULT y el entrenamiento asistido por robot en la práctica clínica e investigación futura. 
+ - Resultados : No se encontraron diferencias de mejora utilizando culquiera de los 3 entrenamientos. Algunas diferencias secundarias sugieren posibles beneficios para EULT y el entrenamiento asistido por robot en la práctica clínica e investigación futura.
+##
+### 3. Monitoring Neck Posture with Flex Sensors
+Las malas posturas del cuello suelen provocar dolores cervicales que, con el tiempo, pueden afectar gravemente a la salud de las personas. Este artículo propone un sistema móvil de monitorización de la postura del cuello con sensores flexibles, dos sensores flexibles se fijan al cuello, un chip BLE soc procesará todos los datos y los enviará al PC o al teléfono móvil. Cuando la postura del cuello de un usuario es mala, este sistema proporciona automáticamente una advertencia a este usuario para mejorar la salud del cuello. Para simplificar los experimentos, la mala postura se define como la curvatura del cráneo superior a 30. Los resultados experimentales mostraron que el resultado de la clasificación del sistema alcanza una precisión del 100%.
+##
+#### IMAGEN 4 - CORRECTA POSTURA
+[![IMAGEN-3-2.gif](https://i.postimg.cc/zvxG6X0t/IMAGEN-3-2.gif)](https://postimg.cc/QKWDWsL1)
+##
+#### IMAGEN 5 - INCORRECTA POSTURA
+[![IMAGEN-3-1.gif](https://i.postimg.cc/3wkmZzJQ/IMAGEN-3-1.gif)](https://postimg.cc/8FV7pK6Z)
+##
+
+Link: https://ieeexplore.ieee.org/document/8836806
