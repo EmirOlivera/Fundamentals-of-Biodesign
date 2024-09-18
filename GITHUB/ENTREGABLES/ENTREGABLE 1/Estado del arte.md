@@ -78,3 +78,8 @@ Volume 139, pages 43-64, February 2022, doi: 10.1186/s12950-020-10251-2.
 ## Título: Robot assisted training for the upper limb after stroke (RATULS): a multicentre randomised controlled trial 
 ### Autor: Helen Rodgers,etc
 ### Año de publicación: 2019
+ - Descripción: Ensayo clínico de pacientes con pérdida de la función del brazo después de un accidente cerebrovascular (stroke), realizado en 4 centros de Reino Unido. Se comparó la efectividad del entrenamiento asistido por robot utilizando el gimnasio robótico MIT-Manus con un programa de terapia mejorada de miembros superiores (EULT), la cual está basada en tareas funcionales repetitivas, y con la atención usual.
+ - Población: Se inscribieron un total de 770 participantes (mayores de edad). 257 pacientes tuvieron un entrenamiento asistido por robot, 259 EULT, y 254 atención habitual.
+ - Método : Se impartieron programas por 12 semanas con la misma frecuencia de 3 veces a la semana y misma duración de 45 minutos de terapia presencial. Para el entrenamiento asistido por robot integró los 3 módulos del gimnasio robótico (módulo hombro-codo, módulo muñeca, módulo mano integrado en el módulo hombro-codo).
+ - Resultados : No se encontraron diferencias de mejora utilizando culquiera de los 3 entrenamientos. Algunas diferencias secundarias sugieren posibles beneficios para EULT y el entrenamiento asistido por robot en la práctica clínica e investigación futura. 
+
