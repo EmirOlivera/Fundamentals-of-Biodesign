@@ -20,3 +20,6 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 [![ENTREGABLE-N-4.jpg](https://i.postimg.cc/z3mq57gB/ENTREGABLE-N-4.jpg)](https://postimg.cc/rR9BNSgX)
 ##
 1. A
+# 4. MATRIZ MORFOLÓGICA
+# 5. TABLA DE VALORACIÓN
+# 6. BOCETOS 
