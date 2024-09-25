@@ -9,8 +9,8 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 # 2. LISTA DE ENTRADAS Y SALIDAS
 ## Definiciones:
 ### Entradas:
-#### 1.  Fuente de energía:* La fuente que energizará de energía el sistema para su óptimo funcionamiento.
-#### 2. Señales: 
+### 1.  Fuente de energía:* La fuente que energizará de energía el sistema para su óptimo funcionamiento.
+### 2. Señales: 
 ### Salidas:
 1. a
 ##
