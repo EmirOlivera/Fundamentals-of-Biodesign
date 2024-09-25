@@ -31,3 +31,6 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 # 5. TABLA DE VALORACIÓN
 # 6. CONCLUSIÓN DEL CS ESCOGIDO
 # 7. BOCETOS 
+
+
+[![IMG-3610.jpg](https://i.postimg.cc/7hSsgcq4/IMG-3610.jpg)](https://postimg.cc/sGD4zTBH)
