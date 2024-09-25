@@ -47,4 +47,5 @@ Mecanismo para personas que no pueden hacer el barrido de comida en el plato. En
 [![IMG-3610.jpg](https://i.postimg.cc/26NbJX43/IMG-3610.jpg)](https://postimg.cc/Nybj2DCw)
 
 # Boceto 3
+[![Captura-de-pantalla-2024-09-25-001746.png](https://i.postimg.cc/wj5CDNSg/Captura-de-pantalla-2024-09-25-001746.png)](https://postimg.cc/DSZpTSvM)
 
