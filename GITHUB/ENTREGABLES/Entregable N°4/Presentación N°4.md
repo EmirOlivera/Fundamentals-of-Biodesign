@@ -41,3 +41,6 @@ Dibujado por: Carla Fermin Jimenez
 Descripción del funcionamiento:
 
 [![IMG-3610.jpg](https://i.postimg.cc/7hSsgcq4/IMG-3610.jpg)](https://postimg.cc/sGD4zTBH)
+
+# Boceto 3
+[![ENTREGABLE-N-4-1.png](https://i.postimg.cc/kDrDY0N3/ENTREGABLE-N-4-1.png)](https://postimg.cc/SYryJttD)
