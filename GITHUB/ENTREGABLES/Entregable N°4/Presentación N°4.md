@@ -34,7 +34,7 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 # 6. CONCLUSIÓN DEL CS ESCOGIDO
 # 7. BOCETOS 
 
-[![Captura-de-pantalla-2024-09-24-235037.png](https://i.postimg.cc/15B065Jb/Captura-de-pantalla-2024-09-24-235037.png)](https://postimg.cc/pp9nMxNB)
+[![ENTREGABLE-N-4-2.png](https://i.postimg.cc/8zYzzFnk/ENTREGABLE-N-4-2.png)](https://postimg.cc/0zpstNsh)
 # Boceto 2
 Titulo : Cuchara con abertura 
 
@@ -47,4 +47,4 @@ Mecanismo para personas que no pueden hacer el barrido de comida en el plato. En
 [![IMG-3610.jpg](https://i.postimg.cc/26NbJX43/IMG-3610.jpg)](https://postimg.cc/Nybj2DCw)
 
 # Boceto 3
-[![ENTREGABLE-N-4-1.png](https://i.postimg.cc/kDrDY0N3/ENTREGABLE-N-4-1.png)](https://postimg.cc/SYryJttD)
+
