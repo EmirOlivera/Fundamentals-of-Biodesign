@@ -19,7 +19,14 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 # 3. ESQUEMA DE FUNCIONES
 [![ENTREGABLE-N-4.jpg](https://i.postimg.cc/z3mq57gB/ENTREGABLE-N-4.jpg)](https://postimg.cc/rR9BNSgX)
 ##
-1. A
+##
+### 1. Alimentar: Fuente de energía que energizará los componentes del sistema:
+### 2. Sensores: Herramientas necesarias para el óptimo funcionamiento del sistema.
+### 3. Leer Datos: Recibir los datos registrados por los sensores.
+### 4. Procesador: Se hacen cálculos con la información para obtener los datos necesarios.
+### 5. Activar: La activación del motor para la ejecución de apertura y cierre de la cuchara.
+### 6. Estimar riesgo: El medio para reconocer del estado de funcionalidad del sistema.
+##
 # 4. MATRIZ MORFOLÓGICA
 # 5. TABLA DE VALORACIÓN
 # 6. BOCETOS 
