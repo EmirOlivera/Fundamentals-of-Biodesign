@@ -55,3 +55,7 @@ La tecnología de sensores que capta información de la región del cuello del u
 ##
 Link: https://www.mdpi.com/1424-8220/22/12/4313
 
+
+##
+[![ANEXO.png](https://i.postimg.cc/tJsPyLkj/ANEXO.png)](https://postimg.cc/rRLzNZ7n)
+
