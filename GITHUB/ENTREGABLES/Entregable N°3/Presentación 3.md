@@ -2,20 +2,26 @@
 <br>
 
 # PROBLEMÁTICA
-## 
+## CONTEXTO
 Las personas que sufren de Lesiones de Médula Espinal muestran secuelas de cómo les ha afectado en por factores personales y socioeconómicos. La pobreza, limita el acceso a servicios esenciales y oportunidades de recuperación.La OMS estima que entre 250,000 y 500,000 personas sufren LME anualmente, muchas prevenibles. Estas lesiones aumentan el riesgo de muerte prematura y afectan la escolarización y la participación laboral. Las limitaciones en actividades diarias no solo provienen de la lesión, sino también de la falta de atención médica adecuada y barreras físicas. La incidencia de LME varía globalmente, siendo de 19 a 25 casos por millón en América Latina, con un aumento notable en lesiones por accidentes y violencia. 
 
 El Instituto Nacional de Rehabilitación (INR) en Perú ha experimentado un aumento en el número de pacientes con lesiones medulares, reflejando una creciente demanda de servicios especializados. En 2023, se registraron 4,429 pacientes, de los cuales el 8% fueron casos nuevos. Este incremento pone en evidencia la necesidad de fortalecer los recursos y capacidades del sistema de salud para atender estas lesiones, que afectan gravemente la calidad de vida de los pacientes. El INR, como único centro de referencia nacional, ofrece un enfoque integral en la rehabilitación física, manejo de complicaciones y reintegración social, lo que resalta la urgencia de políticas públicas más estrictas que prioricen la mejora de servicios de rehabilitación en áreas con acceso limitado.
 
-Acerca del paciente, el 24 de febrero del 2013, en Pucallpa, sufrió accidente de tráfico, mientras conducía moto lineal (fue impactado por auto), atendido inicialmente en clínica local, luego en EsSalud. Trajo informe médico, con diagnósticos: “TVM, corporectomía C4, vejiga neurogénica y discectomía”. Acude por primera vez al INR el 19 de septiembre del 2013, ingresó a hospitalización del INR en el periodo de 8/8/2014 al 8/1/2015. Tras el alta, no continuó controles en la institución. Retoma atenciones en agosto 2023, se indica el reingreso para manejo vesical el 18/10/2023, programando su ingreso. Refiere que fue operado de osificación periarticular de cadera izquierda en el 2016, el Pucallpa.
+## DEFINICION
+Acerca del paciente, sufrió accidente de tráfico, mientras conducía moto lineal. Trajo informe médico, con diagnósticos: “TVM, corporectomía C4, vejiga neurogénica y discectomía”. Acude por primera vez al INR el 19 de septiembre del 2013, ingresó a hospitalización del INR en el periodo de 8/8/2014 al 8/1/2015. Tras el alta, no continuó controles en la institución. Retoma atenciones en agosto 2023, se indica el reingreso para manejo vesical el 18/10/2023, programando su ingreso.
+Actualmente, el paciente continua en rehabilitacion debido a que no puede movilizar algunos miembros superiores para actividades esenciales diarias, centrandonos el antebrazo derecho, del cual el paciente no puede elevar su antebrazo lo suficiente para realizar la alimentacion de manera independiente, debido a que le falta cierta altura para que pueda llegar a lograrlo.
+
+## IMPACTO
+
 
 # PROPUESTA DE SOLUCIÓN
 ## DESCRIPCIÓN
-Para la acción de comer, hay 3 fases: el agarre de cuchara, el barrido de la comida y el barrido del plato a la boca. Nuestro dispositivo ayudará en todo el proceso. Nuestro tendrá 2 partes. Una parte será una cuchara con un mango universal que, en vez de hacer el barrido de la comida que reemplaza el giro de la muñeca, agarrará la comida como unas pinzas. Y la segunda parte será un exoesqueleto de antebrazo para potenciar la fuerza del paciente al elevar su brazo a su boca. El exoesqueleto contará  con bandas elásticas y con un diseño electrónico mínimo.
+Nuestro proyecto está enfocado en personas que tienen movimiento restringido de brazos debido a una lesión medular y no puedan comer por si mismos. Nuestro prototipo asistirá y será un soporte para el brazo dominante del paciente. Con el movimiento del cuello el dispositivo levantará, con torque en el codo, y mantendrá el brazo del paciente a una altura adecuada. Después, sin la gravedad presente, el mismo usuario podrá llevar el utensilio a su boca. Nuestro prototipo se consideraría de asistencia y soporte, como a su vez un dispositivo anti-gravedad. 
 ## CARACTERÍSTICAS DEL PROTOTIPO
-- Mango universal: 
-- Agarre de comida: 
-- Elevación: 
+- Movimiento: El movimiento de la muñeca hacia la boca es primero hacia arriba, y se detiene a la altura de la boca para que el paciente termine el camino y pueda comer por su cuenta.
+- Soporte: Nuestro dispositivo tiene una parte que sirve de soporte del brazo, con agarre en la muñeca y el codo. 
+- Elevación: La elevación se dará dependiendo del movimiento del cuello. Por ejemplo, si el paciente quiere llevar el utensilio a la boca moverá su cuello hacia adelante, nuestro dispositivo detectará su intención y procederá a elevar la parte donde reposa la muñeca. Por  otro lado, si el paciente quiere bajar el utensilio tendrá que llevar su cuello a la posición original.
+- Anti-gravedad: Según la escala ASIA, el paciente si puede mover su brazo pero si no hay gravedad. Para ello, nuestro dispositivo servirá de soporte, ya sea que esté elevado o no, para que el brazo del paciente no sienta el peso de la gravedad. 
 ## BENEFICIOS
  - Sin pérdida del movimiento que el paciente si puede hacer según la escala ASIA
  - Independencia para ingerir alimentos
@@ -31,7 +37,7 @@ Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viab
 # COHERENCIA
 ##
 ## CONTEXTO DEL PROYECTO 
-Nuestra propuesta de solución se relaciona con la problemática debido a que buscamos generar una mayor independencia en pacientes que se ven afectados de realizar actividades diarias como ingerir alimento debido a lesiones medulares. La propuesta está basada en un mecanismo que genera un apoyo adicional a la hora de comer para que el paciente logre realizar la accion del plato a la boca. En el caso escogido, es importante abordar esta problematica mediante una propuesta de solución basada en mejorar la calidad de vida del paciente, por ende buscamos que logre ingerir alimentos, lo cual es una actividad esencial, por lo que es necesario que pueda ejecutarla sin la necesidad de requerir ayuda adicional. 
+Nuestra propuesta de solución se relaciona con la problemática debido a que buscamos generar una mayor independencia en pacientes que se ven afectados de realizar actividades diarias como ingerir alimento debido a lesiones medulares. La propuesta está basada en un mecanismo que genera un apoyo adicional a la hora de comer para que el paciente logre realizar el movimiento de “barrido” en el brazo. En el caso escogido, es importante abordar esta problematica mediante una propuesta de solución basada en mejorar la calidad de vida del paciente, por ende buscamos que logre ingerir alimentos, lo cual es una actividad esencial, por lo que es necesario que pueda ejecutarla sin la necesidad de requerir ayuda adicional. 
 Por otro lado, la propuesta busca mejorar ciertos dispositivos ya existentes, adaptandolos al contexto del usuario y generar una mayor accesibilidad para su uso tanto dentro como fuera del centro de rehabilitación. 
 ##
 ## OBJETIVOS DEL PROYECTO
