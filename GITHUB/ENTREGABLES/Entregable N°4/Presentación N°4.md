@@ -34,3 +34,4 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 
 
 [![IMG-3610.jpg](https://i.postimg.cc/7hSsgcq4/IMG-3610.jpg)](https://postimg.cc/sGD4zTBH)
+[![Captura-de-pantalla-2024-09-24-235037.png](https://i.postimg.cc/15B065Jb/Captura-de-pantalla-2024-09-24-235037.png)](https://postimg.cc/pp9nMxNB)
