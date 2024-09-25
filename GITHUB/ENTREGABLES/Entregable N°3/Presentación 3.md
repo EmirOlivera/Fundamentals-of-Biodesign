@@ -11,7 +11,7 @@ Acerca del paciente, el 24 de febrero del 2013, en Pucallpa, sufrió accidente d
 
 # PROPUESTA DE SOLUCIÓN
 ## DESCRIPCIÓN
-Nuestro proyecto está enfocado en personas que tienen movimiento restringido de brazos debido a una lesión medular y no puedan comer por si mismos. Nuestro prototipo asistirá y será un soporte para el brazo dominante del paciente. Con el movimiento del cuello el dispositivo levantará, con torque en el codo, y mantendrá el brazo del paciente a una altura adecuada. Después, sin la gravedad presente, el mismo usuario podrá llevar el utensilio a su boca. Nuestro prototipo se consideraría de asistencia y soporte, como a su vez un dispositivo anti-gravedad. 
+Para la acción de comer, hay 3 fases: el agarre de cuchara, el barrido de la comida y el barrido del plato a la boca. Nuestro dispositivo ayudará en todo el proceso. Nuestro tendrá 2 partes. Una parte será una cuchara con un mango universal que, en vez de hacer el barrido de la comida que reemplaza el giro de la muñeca, agarrará la comida como unas pinzas. Y la segunda parte será un exoesqueleto de antebrazo para potenciar la fuerza del paciente al elevar su brazo a su boca. El exoesqueleto contará  con bandas elásticas y con un diseño electrónico mínimo.
 ## CARACTERÍSTICAS DEL PROTOTIPO
 - Movimiento: El movimiento de la muñeca hacia la boca es primero hacia arriba, y se detiene a la altura de la boca para que el paciente termine el camino y pueda comer por su cuenta.
 - Soporte: Nuestro dispositivo tiene una parte que sirve de soporte del brazo, con agarre en la muñeca y el codo. 
