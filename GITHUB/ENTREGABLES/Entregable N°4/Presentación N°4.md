@@ -32,7 +32,7 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 # 5. TABLA DE VALORACIÓN
 [![ENTREGABLE-N-4-1.png](https://i.postimg.cc/Hxsw44jV/ENTREGABLE-N-4-1.png)](https://postimg.cc/B8kPJFT0)
 # 6. CONCLUSIÓN DEL CS ESCOGIDO
-### En conclusión, a base de los resultados obtenidos gracias a la tabla de valoración se llegó a optar por la propuesta N°1 (Conceptos de Solución 1). Ya que, esta propuesta es de un costo accesible y la habilidad técnica no es de alto nivel. Además, esta propuesta permite participar directamente en la rehabilitación del usuario, al no buscar una dependencia con la herramienta del exoesqueleto. De esto, en conjunto presenta una cuchara adaptativa práctica, de un costo y habilidad técnica razonables, de lo cual permite ejecutar la acción esencial de alimentación independiente.
+### En conclusión, a base de los resultados obtenidos gracias a la tabla de valoración se llegó a optar por la propuesta N°1 (Conceptos de Solución 1). Ya que, esta propuesta es de un costo accesible y la habilidad técnica necesaria no es de alto nivel. Además, esta propuesta permite participar directamente en la rehabilitación del usuario, porque no busca generar una dependencia con la herramienta del exoesqueleto en el paciente. De esto, en conjunto presenta una cuchara adaptativa práctica, de un costo y habilidad técnica razonables, de lo cual permite ejecutar la acción esencial de alimentación independiente.
 # 7. BOCETOS 
 
 [![ENTREGABLE-N-4-2.png](https://i.postimg.cc/8zYzzFnk/ENTREGABLE-N-4-2.png)](https://postimg.cc/0zpstNsh)
