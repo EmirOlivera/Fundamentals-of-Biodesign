@@ -43,7 +43,7 @@ Descripción del funcionamiento:
 
 Mecanismo para personas que no pueden hacer el barrido de comida en el plato. En vez de que la persona gire su muñeca o la cuchara gire para almacenar comida, este dispositivo se abrirá para agarrar comida y después se cerrará. Para que la cuchara se abra se usará un motor pequeño que estará conectado a la fuente de energía. El motor girará al percibir una señal y con un mecanismo de cuerdas, resorte y mangos se abrirá la cuchara. Cuando no existe ninguna señal, la cuchara permanecerá cerrada. 
 
-[![IMG-3610.jpg](https://i.postimg.cc/7hSsgcq4/IMG-3610.jpg)](https://postimg.cc/sGD4zTBH)
+[![IMG-3610.jpg](https://i.postimg.cc/26NbJX43/IMG-3610.jpg)](https://postimg.cc/Nybj2DCw)
 
 # Boceto 3
 [![ENTREGABLE-N-4-1.png](https://i.postimg.cc/kDrDY0N3/ENTREGABLE-N-4-1.png)](https://postimg.cc/SYryJttD)
