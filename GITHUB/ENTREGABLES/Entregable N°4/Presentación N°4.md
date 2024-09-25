@@ -29,6 +29,7 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 ##
 # 4. MATRIZ MORFOLÓGICA
 # 5. TABLA DE VALORACIÓN
+[![ENTREGABLE-N-4-1.png](https://i.postimg.cc/Hxsw44jV/ENTREGABLE-N-4-1.png)](https://postimg.cc/B8kPJFT0)
 # 6. CONCLUSIÓN DEL CS ESCOGIDO
 # 7. BOCETOS 
 
