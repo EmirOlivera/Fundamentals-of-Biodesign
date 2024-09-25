@@ -28,6 +28,7 @@ Link canva: https://www.canva.com/design/DAGRipyD8uQ/ogaTqUeksppvIxXmnBF7mg/edit
 ### 6. Estimar riesgo: El medio para reconocer del estado de funcionalidad del sistema.
 ##
 # 4. MATRIZ MORFOLÓGICA
+[![ab.png](https://i.postimg.cc/9QSBpMKr/ab.png)](https://postimg.cc/mPYMZbbs)
 # 5. TABLA DE VALORACIÓN
 [![ENTREGABLE-N-4-1.png](https://i.postimg.cc/Hxsw44jV/ENTREGABLE-N-4-1.png)](https://postimg.cc/B8kPJFT0)
 # 6. CONCLUSIÓN DEL CS ESCOGIDO
